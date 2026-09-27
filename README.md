@@ -4,7 +4,7 @@ jui.io 앱에서 쓰는 정적 데이터 파일을 서빙하고, 레거시 `expo
 
 ## 배포 주소
 
-https://feisty-rigging-490112-v2.du.r.appspot.com
+https://feisty-rigging-490112-v2.appspot.com
 
 Google App Engine (`asia-northeast3`, 서울 리전)에 배포되어 있습니다.
 
